@@ -12,7 +12,7 @@ public class GuitHub {
 	    System.out.println(i);
 	}
 	
-	System.out.println("Ahora, otra cuenta regresiva:");
+	System.out.println("Ahora, otra cuenta progresiva:");
 	
 	for (int i = 10; i >= 1;  i++)
 	{
